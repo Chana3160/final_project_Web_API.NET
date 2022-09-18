@@ -1,0 +1,12 @@
+M:\API\MyProjectWebAPI\DTO\bin\Debug\net5.0\DTO.deps.json
+M:\API\MyProjectWebAPI\DTO\bin\Debug\net5.0\DTO.dll
+M:\API\MyProjectWebAPI\DTO\bin\Debug\net5.0\ref\DTO.dll
+M:\API\MyProjectWebAPI\DTO\bin\Debug\net5.0\DTO.pdb
+M:\API\MyProjectWebAPI\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+M:\API\MyProjectWebAPI\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+M:\API\MyProjectWebAPI\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+M:\API\MyProjectWebAPI\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+M:\API\MyProjectWebAPI\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+M:\API\MyProjectWebAPI\DTO\obj\Debug\net5.0\DTO.dll
+M:\API\MyProjectWebAPI\DTO\obj\Debug\net5.0\ref\DTO.dll
+M:\API\MyProjectWebAPI\DTO\obj\Debug\net5.0\DTO.pdb

@@ -1,0 +1,12 @@
+M:\API\MyProjectWebAPI\MyLibrary\bin\Debug\net5.0\MyLibrary.deps.json
+M:\API\MyProjectWebAPI\MyLibrary\bin\Debug\net5.0\MyLibrary.dll
+M:\API\MyProjectWebAPI\MyLibrary\bin\Debug\net5.0\ref\MyLibrary.dll
+M:\API\MyProjectWebAPI\MyLibrary\bin\Debug\net5.0\MyLibrary.pdb
+M:\API\MyProjectWebAPI\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.AssemblyReference.cache
+M:\API\MyProjectWebAPI\MyLibrary\obj\Debug\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+M:\API\MyProjectWebAPI\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfoInputs.cache
+M:\API\MyProjectWebAPI\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfo.cs
+M:\API\MyProjectWebAPI\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+M:\API\MyProjectWebAPI\MyLibrary\obj\Debug\net5.0\MyLibrary.dll
+M:\API\MyProjectWebAPI\MyLibrary\obj\Debug\net5.0\ref\MyLibrary.dll
+M:\API\MyProjectWebAPI\MyLibrary\obj\Debug\net5.0\MyLibrary.pdb
